@@ -14,3 +14,7 @@ META.yml
 MYMETA.yml
 nytprof.out
 pm_to_blib
+<<<<<<< HEAD
+=======
+/etc/pipsqueek.conf
+>>>>>>> c043f3cbb8397a66ba19f43d1d5647636129f569
