@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-pipsqueek-extras
-================
-=======
 # PipSqueek - More than just a friendly bot! #
 Pipsqueek is a fork of the [Pipsqueek Project](http://code.google.com/p/pipsqueek/).
 
@@ -21,4 +17,3 @@ Copyright 2000-2008 Shaun Guth; Distributed under the GPL v2. See the file [LICE
 
 ## See Also ##
 The original [README](https://github.com/mozor/pipsqueek/blob/master/doc/README) with the original credits from the original Pipsqueek project is available in the DOCS directory.
->>>>>>> c043f3cbb8397a66ba19f43d1d5647636129f569
